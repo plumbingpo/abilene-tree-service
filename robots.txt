@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abilenetreeguys.com/sitemap.xml
